@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+}
+.header__menu__block {
+  justify-content: space-between;
+}
+.header__menu {
+  display: flex;
+  max-width: 1170px;
+  max-height: 66px;
+}
+.header__about {
+  display: flex;
+  column-gap: 30px;
+}
+.logo {
+  display: flex;
+  max-width: 216px;
+  max-height: 66px;
+}
+.header__catalog {
+  display: flex;
+  column-gap: 30px;
+}
